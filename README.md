@@ -6,9 +6,9 @@ This is a responsive website for the CMU Men's Water Polo Team. It takes advanta
 
 Connor Moore and Evans Hauser.
 
-## TODO
+## TO DO
 
-Attach the infobar to the top so it does not cover the photo.
-Add in actual text.
-Add Contact us page.
-Add pictures to the roster page, style it with name number and year.
+*Attach the infobar to the top so it does not cover the photo.
+*Add in actual text.
+*Add Contact us page.
+*Add pictures to the roster page, style it with name number and year.
