@@ -118,7 +118,7 @@
         </section>
         <section class="module content">
           <div class="container">
-            <h2 id="practice">Contact</h2>
+            <h2 id="practice">Practice</h2>
               <p>Practice is <strong>Monday, Wednesday, and Thursday</strong> from <strong>9 to 11</strong>. We meet at the UC pool and have an additional swim workout at 8pm-9pm on Thursday </p>
           </div>
         </section>
@@ -131,7 +131,7 @@
 
         <section class="module content">
           <div class="container">
-            <h2 id="practice">Contact</h2>
+            <h2 id="contact">Contact</h2>
               <p>Please do not hesitate to reach us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>
           </div>
         </section>
@@ -144,7 +144,7 @@
 
         <section class="module content">
           <div class="container">
-            <iframe src="https://www.google.com/calendar/embed?src=no23leh254vg81urs5u1cknfls%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
+            <iframe id="calendar" src="https://www.google.com/calendar/embed?src=no23leh254vg81urs5u1cknfls%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
             </iframe>
           </div>
         </section>

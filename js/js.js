@@ -10,4 +10,13 @@ $( document ).ready(function() {
   $( "#a_practice" ).click(function( event ) {
     $('#practice').ScrollTo();
   });
+
+  $( "#a_contact" ).click(function( event ) {
+    $('#contact').ScrollTo();
+  });
+
+  $( "#a_calendar" ).click(function( event ) {
+    $('#calendar').ScrollTo();
+  });
+
 });
