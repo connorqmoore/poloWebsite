@@ -40,7 +40,6 @@ section.module.parallax h1 {
   text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8);
 }
 section.module.parallax-1 {
-  padding-top: 20px; 
   background-image: url("../img/pologo.png");
 }
 section.module.parallax-2 {
