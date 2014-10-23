@@ -139,8 +139,20 @@ main {
 ============================================================ */
 .players {
   width: 100%;
-  margin: 0 1
+  text-align: center;
 }
+
+.players h3{
+  font-size: 1.5em;
+}
+
+.player {
+  display: inline-block;
+  width: 15%;
+  vertical-align: top;
+}
+
+
 
 /* ============================================================
   FOOTER
@@ -169,4 +181,8 @@ a {
 
 a:hover {
   color: #818181;
+}
+
+h3 {
+  font-size = 150%;
 }

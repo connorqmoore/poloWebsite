@@ -56,8 +56,8 @@
           <div class="container">
             <h2 id="roster">Roster</h2>
             <div class="players"> 
-              <div class="freshman">
-                <h3>Freshman</h3>
+              <div class="player">
+                <h3>Freshmans:</h3>
                 <ul>
                   <li>Alan Hodge</li> 
                   <li>Eli Peterson</li> 
@@ -66,8 +66,8 @@
                   <li>Vivaan Bahl</li> 
                 </ul>
               </div>
-              <div class="sophmore">
-                <h3>Sophmore</h3>
+              <div class="player">
+                <h3>Sophmores:</h3>
                 <ul>
                   <li>Brent Tan</li> 
                   <li>Connor Moore</li> 
@@ -76,8 +76,8 @@
                   <li>Steffen Holm</li> 
                 </ul>
               </div>
-              <div class="junior">
-                <h3>Junior</h3>
+              <div class="player">
+                <h3>Juniors:</h3>
                 <ul>
                   <li>Justin Hilliard</li> 
                   <li>Luke Bruce</li> 
@@ -86,16 +86,16 @@
                   <li>Theodore Warhoe</li> 
                 </ul>
               </div>
-              <div class="senior">
-                <h3>Senior</h3>
+              <div class="player">
+                <h3>Seniors:</h3>
                 <ul>
                   <li>Matthew Reid</li> 
                   <li>Nicky Ong</li>
                   <li>Yannick Hogarth</li> 
                 </ul>
               </div>
-              <div class="grad">
-                <h3>Graduate Students</h3>
+              <div class="player">
+                <h3>Grads:</h3>
                 <ul>
                   <li>Ben Solecki</li> 
                   <li>Constantine Nakos</li> 
