@@ -1,3 +1,3 @@
 <?php
-header("Location: http://www.cmuwaterpolo.com/index.html");
+header("Location: http://cmuwaterpolo.herokuapp.com/index.html");
 ?>
