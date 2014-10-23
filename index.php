@@ -18,12 +18,13 @@
     <script src="js/js.js"></script>
 
     <!--Favicon-->
-  <link rel="icon" 
-        type="image/ico" 
+  <link rel="icon"
+        type="image/ico"
         href="img/icons/favicon.ico">
   </head>
   <body>
       <div class="wrapper">
+
         <div class="info-bar">
           <div class="container">
             <a id="a_team">Team</a>
@@ -31,6 +32,7 @@
             <a id="a_practice">Practice</a>
           </div>
         </div>
+
         <section class="module parallax parallax-1">
           <div id="container">
             <h1 id="heading">CMU Water Polo</h1>
@@ -53,8 +55,56 @@
         <section class="module content">
           <div class="container">
             <h2 id="roster">Roster</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil consequuntur, nesciunt dicta, esse rem ducimus itaque quis. Adipisci ullam nam qui illum debitis sit ad in delectus, repudiandae non dolorum! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit veritatis, facere aliquid itaque tempore consequatur nihil sint enim aliquam id saepe magnam totam repellat placeat a fugit nulla molestias voluptas.</p>
-          </div>
+            <div class="players">
+              <div class="freshman">
+                <h3>Freshman</h3>
+                <ul>
+                  <li>Alan Hodge</li>
+                  <li>Eli Peterson</li>
+                  <li>Nate Horan</li>
+                  <li>Philip Forte</li>
+                  <li>Vivaan Bahl</li>
+                </ul>
+              </div>
+              <div class="sophmore">
+                <h3>Sophmore</h3>
+                <ul>
+                  <li>Brent Tan</li>
+                  <li>Connor Moore</li>
+                  <li>Evans Hauser</li>
+                  <li>Quincy Liu</li>
+                  <li>Steffen Holm</li>
+                </ul>
+              </div>
+              <div class="junior">
+                <h3>Junior</h3>
+                <ul>
+                  <li>Justin Hilliard</li>
+                  <li>Luke Bruce</li>
+                  <li>Luke Sampson</li>
+                  <li>Patrick Koenig</li>
+                  <li>Theodore Warhoe</li>
+                </ul>
+              </div>
+              <div class="senior">
+                <h3>Senior</h3>
+                <ul>
+                  <li>Matthew Reid</li>
+                  <li>Nicky Ong</li>
+                  <li>Yannick Hogarth</li>
+                </ul>
+              </div>
+              <div class="grad">
+                <h3>Graduate Students</h3>
+                <ul>
+                  <li>Ben Solecki</li>
+                  <li>Constantine Nakos</li>
+                  <li>Rob Saul</li>
+                  <li>Willy Elmore (Coach)</li>
+                </ul>
+              </div>
+            </div>
+          </div> <!--Container-->
         </section>
 
         <section class="module parallax parallax-3">
