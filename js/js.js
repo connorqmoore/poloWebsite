@@ -19,4 +19,8 @@ $( document ).ready(function() {
     $('#calendar').ScrollTo();
   });
 
+  $( "#calendar_in_team" ).click(function( event ) {
+    $('#calendar').ScrollTo();
+  });
+
 });
