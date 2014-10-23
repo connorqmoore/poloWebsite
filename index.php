@@ -59,7 +59,7 @@
         <section class="module content">
           <div class="container">
             <h2 id="roster">Roster</h2>
-            <div class="players"> 
+            <div class="players">
               <div class="player">
                 <h3>Freshmans:</h3>
                 <ul>
@@ -154,6 +154,6 @@
       </main>
     </body>
   <footer>
-    Website maintained by Connor Moore. Current as of Fall 2014.
+    Website maintained by Connor Moore and Evans Hauser. Current as of Fall 2014.
   </footer>
 </html>
