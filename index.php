@@ -144,8 +144,10 @@
 
         <section class="module content">
           <div class="container">
-            <iframe id="calendar" src="https://www.google.com/calendar/embed?src=no23leh254vg81urs5u1cknfls%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
-            </iframe>
+            <div id="iframe_container">
+              <iframe id="calendar" src="https://www.google.com/calendar/embed?src=no23leh254vg81urs5u1cknfls%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
+              </iframe>
+            </div>
           </div>
         </section>
 
