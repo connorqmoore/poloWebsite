@@ -30,8 +30,8 @@
             <a id="a_team">Team</a>
             <a id="a_roster">Roster</a>
             <a id="a_practice">Practice</a>
-            <a id="a_contact">Contact Us</a>
             <a id="a_calendar">Calendar</a>
+            <a id="a_contact">Contact Us</a>
           </div>
         </div>
 
@@ -122,19 +122,6 @@
           </div>
         </section>
 
-        <section class="module parallax parallax-4">
-          <div class="container">
-            <h1>Contact</h1>
-          </div>
-        </section>
-
-        <section class="module content">
-          <div class="container">
-            <h2 id="contact">Contact</h2>
-              <p>Please do not hesitate to reach us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>.
-          </div>
-        </section>
-
         <section class="module parallax parallax-5">
           <div class="container">
             <h1>Calendar</h1>
@@ -150,6 +137,18 @@
           </div>
         </section>
 
+        <section class="module parallax parallax-4">
+          <div class="container">
+            <h1>Contact</h1>
+          </div>
+        </section>
+
+        <section class="module content">
+          <div class="container">
+            <h2 id="contact">Contact</h2>
+              <p>Please do not hesitate to reach us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>.
+          </div>
+        </section>
 
       </div>
       </main>
