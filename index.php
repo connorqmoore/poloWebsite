@@ -2,7 +2,7 @@
 
 <html class="no-js" lang="en">
   <head>
-    <!--Google Font Roboto-->
+    <!--Google Font Muli-->
     <link href='http://fonts.googleapis.com/css?family=Muli:300italic,400' rel='stylesheet' type='text/css'>
     <!--Title and metadata-->
     <meta charset="utf-8">
@@ -61,7 +61,7 @@
             <h2 id="roster">Roster</h2>
             <div class="players">
               <div class="player">
-                <h3>Freshmans:</h3>
+                <h3>Freshman:</h3>
                 <ul>
                   <li>Alan Hodge</li>
                   <li>Eli Peterson</li>
@@ -144,7 +144,7 @@
 
         <section class="module content">
           <div class="container">
-            <div id="iframe_container">
+            <div id="iframe_container" class="responsive-iframe-container">
               <iframe id="calendar" src="https://www.google.com/calendar/embed?src=no23leh254vg81urs5u1cknfls%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
               </iframe>
             </div>

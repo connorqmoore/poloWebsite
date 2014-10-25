@@ -71,6 +71,7 @@ section.module.parallax-5 {
     font-size: 100px;
   }
 }
+/*responsive headings */
 @media all and (max-width: 900px) {
   section.module.parallax h1 {
     font-size: 50px;
@@ -79,5 +80,23 @@ section.module.parallax-5 {
 @media all and (max-width: 478px) {
   section.module.parallax h1 {
     font-size: 20px;
+  }
+}
+
+/*Responsive Roster*/
+@media all and (max-width: 788px) {
+  .players h3 {
+    font-size: 100%;
+  }
+  .players li {
+    font-size: 75%;
+  }
+}
+@media all and (max-width: 522px) {
+  .players h3 {
+    font-size: 50%;
+  }
+  .players li {
+    font-size: 50%;
   }
 }
