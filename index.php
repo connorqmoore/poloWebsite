@@ -44,8 +44,8 @@
         <section class="module content">
           <div class="container">
             <h2 id="team">Team</h2>
-            <p> Originated as the co-ed Water Polo Club, the Men's team was formed after the successful creation of the Women's team in 2010. The Carnegie Men's Water Polo Team is a member of the Collegiate Water Polo Association, and competes as a part of the Western Region of the Mid-Atlantic D-III Club Division. The team is made up of both undergraduate and graduate students. </p>
-            <p> Those who have played at the high school, junior olympic, club, or varsity level will find a competitive and fun atmosphere. During the fall season, the team participates in at least four away tournaments, including the Division III National Championship. The spring semester is considered the off season, but holds just as much excitement, including no less than two away tournaments in addition to the annual home tournament. To see the team's complete schedule for the year, please see our <span id="calendar_in_team">calendar</span>.</p>
+            <p> Originally the co-ed Water Polo Club, the Men's team was formed after the successful creation of the Women's team in 2010. The Carnegie Mellon Men's Water Polo Team is a member of the Collegiate Water Polo Association, and competes as a part of the Western Region of the Mid-Atlantic D-III Club Division. The team is made up of both undergraduate and graduate students. </p>
+            <p> Those who have played at the high school, junior olympic, club, or varsity level will find a competitive and fun atmosphere. During the fall season, the team participates in at least four away tournaments, including the Division III National Championship. The spring semester is considered the off season, but holds just as much excitement, including no less than two away tournaments in addition to an annual tournament held at CMU. To see the team's complete schedule for the year, please see our <span id="calendar_in_team">calendar</span>.</p>
           </div>
         </section>
 
