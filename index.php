@@ -37,7 +37,7 @@
 
         <section class="module parallax parallax-1">
           <div id="container">
-            <h1 id="heading">CMU Water Polo</h1>
+            <h1 id="heading">Carnegie Mellon - Water Polo</h1>
           </div>
         </section>
 
