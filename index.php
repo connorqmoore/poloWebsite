@@ -7,7 +7,7 @@
     <!--Title and metadata-->
     <meta charset="utf-8">
     <meta content="width=device-width,initial-scale=1.0" name="viewport">
-    <title>CMU Water Polo</title>
+    <title>Carnegie Mellon - Water Polo</title>
     <!--CSS-->
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/style.css">
@@ -37,7 +37,7 @@
 
         <section class="module parallax parallax-1">
           <div id="container">
-            <h1 id="heading">Carnegie Mellon - Water Polo</h1>
+            <h1 id="heading">CMU Water Polo</h1>
           </div>
         </section>
 
