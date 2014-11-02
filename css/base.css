@@ -188,8 +188,9 @@ main {
   height: 100%;
 }
 
+
 /* Responsive iFrame */
- 
+
 .responsive-iframe-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -197,9 +198,9 @@ main {
     height: 0;
     overflow: hidden;
 }
- 
-.responsive-iframe-container iframe,  
-.vresponsive-iframe-container object, 
+
+.responsive-iframe-container iframe,
+.vresponsive-iframe-container object,
 .vresponsive-iframe-container embed {
     position: absolute;
     top: 0;
@@ -208,6 +209,18 @@ main {
     height: 100%;
 }
 
+
+/* ============================================================
+  Twitter
+============================================================ */
+
+.twitter_feed{
+  margin-left:
+  auto; margin-right: auto;
+  display: block;
+  position: relative;
+  text-align: center;
+}
 
 /* ============================================================
   FOOTER

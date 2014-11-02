@@ -150,6 +150,23 @@
           </div>
         </section>
 
+        <section class="module parallax parallax-4">
+          <div class="container">
+            <h1>Twitter Feed</h1>
+          </div>
+        </section>
+
+        <section class="module content">
+          <div class="container">
+            <div class="twitter_feed">
+
+              <a class="twitter-timeline"  href="https://twitter.com/cmumwp" data-widget-id="528774671412367360">Tweets by @cmumwp</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </blockquote>
+          </div>
+        </section>
+
+
       </div>
       </main>
     </body>

@@ -8,4 +8,4 @@ Connor Moore and Evans Hauser.
 
 ## TO DO
 
-- Change Calendar iframe so that it has a max width aka no horizontal scroll bar
+- Increase search location for Google
