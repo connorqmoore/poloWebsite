@@ -8,4 +8,3 @@ Connor Moore and Evans Hauser.
 
 ## TO DO
 
-- Increase search location for Google
