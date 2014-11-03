@@ -150,7 +150,7 @@
           </div>
         </section>
 
-        <section class="module parallax parallax-4">
+        <section class="module parallax parallax-6">
           <div class="container">
             <h1>Twitter Feed</h1>
           </div>

@@ -55,6 +55,10 @@ section.module.parallax-5 {
   background-image: url("../img/team_pic_2014.jpg");
 }
 
+section.module.parallax-6 {
+  background-image: url("../img/LukeSampson.jpg");
+}
+
 @media all and (min-width: 600px) {
   section.module h2 {
     font-size: 42px;
