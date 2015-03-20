@@ -1,5 +1,6 @@
 /* ============================================================
   SECTIONS
+  ADD PICTURES HERE IF YOU ADD A NEW SLIDE TO WEBSITE
 ============================================================ */
 section.module:last-child {
   margin-bottom: 0;
@@ -57,6 +58,10 @@ section.module.parallax-5 {
 
 section.module.parallax-6 {
   background-image: url("../img/LukeSampson.jpg");
+}
+
+section.module.parallax-7 {
+  background-image: url("../img/team_pic_outside_2015.jpg");
 }
 
 @media all and (min-width: 600px) {

@@ -32,6 +32,7 @@
             <a id="a_practice">Practice</a>
             <a id="a_calendar">Calendar</a>
             <a id="a_contact">Contact Us</a>
+            <a id="a_tournament">Tournament</a>
           </div>
         </div>
 
@@ -146,7 +147,7 @@
         <section class="module content">
           <div class="container">
             <h2 id="contact">Contact</h2>
-              <p>Please do not hesitate to reach us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>.
+              <p>Please do not hesitate to reach us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>.</p>
           </div>
         </section>
 
@@ -166,6 +167,66 @@
           </div>
         </section>
 
+        <section class="module parallax parallax-7">
+          <div class="container">
+            <h1>Tournament</h1>
+          </div>
+        </section>
+
+        <section class="module content">
+          <div class="container">
+            <h2 id="tournament">CMU Home Tournament 2015</h2>
+              <div id = "links">
+                <a class="tournament_links" href="https://docs.google.com/spreadsheets/d/1uUmrc7IlQwZwLmbxmcYIQpOjCvdfennLuiVhwKqM8ZE/edit?usp=sharing"> Schedule </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="tournament_links" href="https://www.google.com/maps/dir//Carnegie+Mellon+University,+5000+Forbes+Ave,+Pittsburgh,+PA+15213,+United+States/@40.4440597,-79.9429822,15z/data=!4m12!1m3!3m2!1s0x0:0x88716b461fc4daf4!2sCarnegie+Mellon+University!4m7!1m0!1m5!1m1!1s0x8834f21f58679a9f:0x88716b461fc4daf4!2m2!1d-79.942553!2d40.442492"> Google maps link to pool </a>
+                <br>
+                <br>
+              </div>
+              <!-- Email content -->
+              <div id="email">
+              <p> 
+                <span>Schedule:</span> <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;I have made several changes to the schedule, which can be found here. Unfortunately, I recently learned that we must be finished with the pool by noon, so we cannot play the seeded games, which are now blacked out. The level of play in each bracket tries to rectify this. All teams are still getting four games during the weekend, so enough polo should be played.
+                <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;Because this isn't league play and just an invitational, it's going to be pretty casual. If you see a team you really want to play and you think the schedule might be able to be changed in a way that would benefit all the teams involved, let us know and we'll see what we can do on the spot to get that done.
+                <br>
+                <br>
+                <span>Parking:</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;Parking in the East Campus Garage (P7 on the attached map) is free all weekend starting Friday at 5pm. This is the closest parking option to the pool. There is additional parking (also free after 5pm on Friday) in the Morewood parking lot (P15 on the attached map) should the East Campus Garage fill up, although this is unlikely. If anyone is planning on staying past Sunday night, please let me know and I can help you find somewhere else to park.
+                <br>
+                <br>
+                <span>The Pool:</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;Our pool is located in the University Center (30 on the attached map). If you walk into the UC from the East Campus Garage, the pool will be on your left, across the hall from the basketball courts.
+                <br>
+                <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;The pool area isn't huge, so we don't recommend sticking around to watch every single game. Currently we are preparing for renovation of the pool area to include an observation deck, so the bleachers have been removed. There are benches on the side of the pool for players on the bench. Depending upon the availability of chairs during the weekend, there may be seating for spectators during the games. There is plenty of space elsewhere in the UC to chill during downtime. 
+                <br>
+                <br>
+                <span>Meals:</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;You'll naturally want to get food during the during the day. There are plenty of options in the UC and elsewhere on campus that accept cash and credit cards. If you're looking for somewhere close off-campus, or even a recommendation for the evening, feel free to ask anyone on the team and we can point you to a nice spot to get your fill after a long day in the pool.
+                <br>
+                <br>
+
+                <span>Balls:</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;We have enough balls to warm up with so both teams could have 3 or 4, but if your team wants to bring your own balls, go ahead and label them. We all know how much it sucks when you get out of the pool after a game and you know the next team is warming up with your ball but you don't know which one. 
+                <br>
+                <br>
+
+                <span>Game Format:</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;We will be playing with the following rules, if the games are too fast and we think there is time, we are open to adding some time to the quarters:
+                - No overtime
+                - 7 minute quarters, running clock
+                - 1:30 minutes between quarters
+                - 3 minutes at halftime
+                - 1 x 1:30 minute and 2 x 30 second timeouts. If taking a 1:30 timeout, teams must go to their half of the pool. During any 30 second timeout, teams are not required to go to their respective sides of the pool.
+                - Any player or coach receiving a red card will be out for the rest of the tournament
+              </p>
+          </div>
+
+          </div>
+        </section>
+      <!-- End of the tournament section -->
 
       </div>
       </main>

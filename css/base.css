@@ -131,6 +131,10 @@ main {
   padding-left: 20px;
 }
 
+#a_tournament {
+  padding-left: 20px;
+}
+
 /* ============================================================
   HEADER & SITE TITLE
 ============================================================ */
@@ -223,11 +227,30 @@ main {
 }
 
 /* ============================================================
+  Tournament
+============================================================ */
+
+.tournament{
+  display: block;
+  position: relative;
+}
+
+.tournament_links {
+  color: red;
+  cursor: pointer;
+  text-align: center;
+}
+
+#email span{
+  font-weight: bold;
+}
+
+/* ============================================================
   FOOTER
 ============================================================ */
 footer {
   padding: 20px 20px 20px 20px;
-  background-color: #fff;
+  background-color: #F0F0F0;
   text-align: center;
   font-size: 10px;
 }

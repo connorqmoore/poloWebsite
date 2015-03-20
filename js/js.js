@@ -19,6 +19,10 @@ $( document ).ready(function() {
     $('#calendar').ScrollTo();
   });
 
+  $( "#a_tournament" ).click(function( event ) {
+    $('#tournament').ScrollTo();
+  });
+
   $( "#calendar_in_team" ).click(function( event ) {
     $('#calendar').ScrollTo();
   });
