@@ -185,9 +185,9 @@
               </div>
               <!-- Email content -->
               <div id="email">
-              <p> 
+              <p>
                 <span>Schedule:</span> <br>
-                &nbsp;&nbsp;&nbsp;&nbsp;I have made several changes to the schedule, which can be found here. Unfortunately, I recently learned that we must be finished with the pool by noon, so we cannot play the seeded games, which are now blacked out. The level of play in each bracket tries to rectify this. All teams are still getting four games during the weekend, so enough polo should be played.
+                &nbsp;&nbsp;&nbsp;&nbsp;I have made several changes to the schedule, which can be found <a class="tournament_links" href="schedule.php"> here</a>. Unfortunately, I recently learned that we must be finished with the pool by noon, so we cannot play the seeded games, which are now blacked out. The level of play in each bracket tries to rectify this. All teams are still getting four games during the weekend, so enough polo should be played.
                 <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;Because this isn't league play and just an invitational, it's going to be pretty casual. If you see a team you really want to play and you think the schedule might be able to be changed in a way that would benefit all the teams involved, let us know and we'll see what we can do on the spot to get that done.
                 <br>
@@ -200,7 +200,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;Our pool is located in the University Center (30 on the attached map). If you walk into the UC from the East Campus Garage, the pool will be on your left, across the hall from the basketball courts.
                 <br>
                 <br>
-                &nbsp;&nbsp;&nbsp;&nbsp;The pool area isn't huge, so we don't recommend sticking around to watch every single game. Currently we are preparing for renovation of the pool area to include an observation deck, so the bleachers have been removed. There are benches on the side of the pool for players on the bench. Depending upon the availability of chairs during the weekend, there may be seating for spectators during the games. There is plenty of space elsewhere in the UC to chill during downtime. 
+                &nbsp;&nbsp;&nbsp;&nbsp;The pool area isn't huge, so we don't recommend sticking around to watch every single game. Currently we are preparing for renovation of the pool area to include an observation deck, so the bleachers have been removed. There are benches on the side of the pool for players on the bench. Depending upon the availability of chairs during the weekend, there may be seating for spectators during the games. There is plenty of space elsewhere in the UC to chill during downtime.
                 <br>
                 <br>
                 <span>Meals:</span><br>
@@ -209,7 +209,7 @@
                 <br>
 
                 <span>Balls:</span><br>
-                &nbsp;&nbsp;&nbsp;&nbsp;We have enough balls to warm up with so both teams could have 3 or 4, but if your team wants to bring your own balls, go ahead and label them. We all know how much it sucks when you get out of the pool after a game and you know the next team is warming up with your ball but you don't know which one. 
+                &nbsp;&nbsp;&nbsp;&nbsp;We have enough balls to warm up with so both teams could have 3 or 4, but if your team wants to bring your own balls, go ahead and label them. We all know how much it sucks when you get out of the pool after a game and you know the next team is warming up with your ball but you don't know which one.
                 <br>
                 <br>
 
