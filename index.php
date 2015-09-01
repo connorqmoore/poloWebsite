@@ -119,7 +119,10 @@
         <section class="module content">
           <div class="container">
             <h2 id="practice">Practice</h2>
+              <p>Practice is <strong>Monday, Wednesday, and Thursday</strong> from <strong>9 to 11pm</strong>. We meet at the UC pool and have an additional swim workout at 8pm-9pm on Thursday. The pool will be closed until after labor day, so the first practice will be the 9th of September</p>
+              <!--
               <p>Practice is <strong>Monday and Thursday</strong> from <strong>9 to 11pm</strong> and <strong>Sunday</strong> from <strong>5 to 7pm</strong>. We meet at the UC pool and have an additional swim workout at 8pm-9pm on Thursday.</p>
+              -->
           </div>
         </section>
 
