@@ -188,7 +188,9 @@
                 <br>
                 <br>
               </div>
+-->
               <!-- Email content -->
+<!--
               <div id="email">
               <p>
                 <span>Schedule:</span> <br>
@@ -231,8 +233,8 @@
 
           </div>
         </section>
-      <!-- End of the tournament section -->
 -->
+      <!-- End of the tournament section -->
 
       </div>
       </main>
