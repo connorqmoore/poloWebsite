@@ -63,7 +63,18 @@
               <div class="player">
                 <h3>Freshman:</h3>
                 <ul>
+                  <li>Felix Liu</li>
+                  <li>Coby Rangel</li>
+                  <li>Christian Manaog</li>
+                  <li>Harry Xu</li>
+                  <li>John Curcio</li>
+                  <li>Terence Huang</li>
+                  <li>Fernando Melean</li>
+                </ul>
+                <h3>Sophmores:</h3>
+                <ul>
                   <li>Alan Hodge</li>
+                  <li>Kevin Steinhouse</li>
                   <li>Eli Peterson</li>
                   <li>Nate Horan</li>
                   <li>Philip Forte</li>
@@ -71,30 +82,28 @@
                 </ul>
               </div>
               <div class="player">
-                <h3>Sophmores:</h3>
+                <h3>Juniors:</h3>
                 <ul>
                   <li>Brent Tan</li>
                   <li>Connor Moore</li>
                   <li>Evans Hauser</li>
                   <li>Quincy Liu</li>
                   <li>Steffen Holm</li>
-                </ul>
-              </div>
-              <div class="player">
-                <h3>Juniors:</h3>
-                <ul>
-                  <li>Justin Hilliard</li>
-                  <li>Luke Bruce</li>
-                  <li>Luke Sampson</li>
-                  <li>Patrick Koenig</li>
-                  <li>Theodore Warhoe</li>
+                  <li>Anthony Rueda</li>
+                  <li>Canaan Linder</li>
+                  <li>Leon Ji</li>
                 </ul>
               </div>
               <div class="player">
                 <h3>Seniors:</h3>
                 <ul>
+                  <li>Justin Hilliard</li>
+                  <li>Carl Lin</li>
+                  <li>Luke Bruce</li>
+                  <li>Luke Sampson</li>
+                  <li>Patrick Koenig</li>
+                  <li>Theodore Warhoe</li>
                   <li>Matthew Reid</li>
-                  <li>Nicky Ong</li>
                   <li>Yannick Hogarth</li>
                 </ul>
               </div>
@@ -103,7 +112,6 @@
                 <ul>
                   <li>Ben Solecki</li>
                   <li>Constantine Nakos</li>
-                  <li>Rob Saul</li>
                   <li>Willy Elmore (Coach)</li>
                 </ul>
               </div>
