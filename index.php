@@ -71,6 +71,8 @@
                   <li>Terence Huang</li>
                   <li>Fernando Melean</li>
                 </ul>
+              </div>
+              <div class="player">
                 <h3>Sophmores:</h3>
                 <ul>
                   <li>Alan Hodge</li>
