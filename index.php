@@ -250,6 +250,6 @@
       </main>
     </body>
   <footer>
-    Website maintained by Connor Moore and Evans Hauser. Current as of Fall 2014.
+    Website maintained by Connor Moore and Evans Hauser. Current as of Fall 2015.
   </footer>
 </html>
