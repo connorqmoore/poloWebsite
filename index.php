@@ -193,7 +193,7 @@
               <p>If you are interested in joining us at our annual tournament in the Spring, please contact us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>.</p>
 -->
               <div id = "links">
-                <a class="tournament_links" href="https://docs.google.com/spreadsheets/d/1uUmrc7IlQwZwLmbxmcYIQpOjCvdfennLuiVhwKqM8ZE/edit?usp=sharing"> Schedule </a>
+                <a class="tournament_links" href="https://docs.google.com/spreadsheets/d/1JvMqcCeFyUZMHSqLuoHb2AWHXxc4OYlaluc--u6tGIE/edit#gid=0"> Schedule </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;
                 <a class="tournament_links" href="https://www.google.com/maps/dir//Carnegie+Mellon+University,+5000+Forbes+Ave,+Pittsburgh,+PA+15213,+United+States/@40.4440597,-79.9429822,15z/data=!4m12!1m3!3m2!1s0x0:0x88716b461fc4daf4!2sCarnegie+Mellon+University!4m7!1m0!1m5!1m1!1s0x8834f21f58679a9f:0x88716b461fc4daf4!2m2!1d-79.942553!2d40.442492"> Google maps link to pool </a>
                 <br>
