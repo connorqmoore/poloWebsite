@@ -188,8 +188,8 @@
 
         <section class="module content">
           <div class="container">
-<!--
             <h2 id="tournament">CMU Home Tournament 2016</h2>
+<!--
               <p>If you are interested in joining us at our annual tournament in the Spring, please contact us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>.</p>
 -->
               <div id = "links">
