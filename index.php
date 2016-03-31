@@ -188,9 +188,10 @@
 
         <section class="module content">
           <div class="container">
+<!--
             <h2 id="tournament">CMU Home Tournament 2016</h2>
               <p>If you are interested in joining us at our annual tournament in the Spring, please contact us at <a href="mailto:cmumwp@gmail.com">cmumwp@gmail.com</a>.</p>
-<!--
+-->
               <div id = "links">
                 <a class="tournament_links" href="https://docs.google.com/spreadsheets/d/1uUmrc7IlQwZwLmbxmcYIQpOjCvdfennLuiVhwKqM8ZE/edit?usp=sharing"> Schedule </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -198,9 +199,8 @@
                 <br>
                 <br>
               </div>
--->
+
               <!-- Email content -->
-<!--
               <div id="email">
               <p>
                 <span>Schedule:</span> <br>
@@ -227,6 +227,8 @@
 
                 <span>Balls:</span><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;We have enough balls to warm up with so both teams could have 3 or 4, but if your team wants to bring your own balls, go ahead and label them. We all know how much it sucks when you get out of the pool after a game and you know the next team is warming up with your ball but you don't know which one.
+
+<!--
                 <br>
                 <br>
 
@@ -238,12 +240,13 @@
                 - 3 minutes at halftime
                 - 1 x 1:30 minute and 2 x 30 second timeouts. If taking a 1:30 timeout, teams must go to their half of the pool. During any 30 second timeout, teams are not required to go to their respective sides of the pool.
                 - Any player or coach receiving a red card will be out for the rest of the tournament
+-->
               </p>
           </div>
 
           </div>
         </section>
--->
+
       <!-- End of the tournament section -->
 
       </div>
